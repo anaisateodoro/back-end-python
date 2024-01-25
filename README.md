@@ -17,7 +17,7 @@ Para começar, abra uma ferramenta de terminal (PowerShell se você estiver util
 
 ``` bash
 cd ~\workspace
-git clone <endereço que você copiou>
+git clone https://github.com/anaisateodoro/back-end-python.git
 ```
 
 Você poderá utilizar seu repositório de duas maneiras:
